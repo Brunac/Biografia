@@ -1,12 +1,10 @@
-# lab-pw-2017-1
-
-Laboratório da turma de Programação para Web.
+Laboratório da turma de Programação para Web -  Minha Biografia!!!
 
 ## Para rodar o projeto
 
 ### Para fazer clone.
 
-`git clone https://github.com/walison-moreira-ufg/lab-pw-2017-1`
+`git clone https://github.com/Brunac/Biografia`
 
 ### Para rodar com o Tomcat.
 
@@ -16,7 +14,7 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 
 ## Para acessar a aplicação
 
-`http://localhost:8080/lab-pw-2017-1` em qualquer navegador.
+`http://localhost:8080/Biografia` em qualquer navegador.
 
 ### Para "empacotar" a aplicação.
 
